@@ -1,0 +1,519 @@
+{
+  "metadata": {
+    "total_count": 30,
+    "last_updated": "2026-05-22",
+    "repository": "DhiaAlhemdani/Certifications"
+  },
+  "certifications": [
+    {
+      "id": "eng-adv-diploma",
+      "name": "English Language Advanced Diploma",
+      "issuer": "Unknown",
+      "category": "Language",
+      "date_issued": "2026-05-13",
+      "expiry_date": null,
+      "files": [
+        "English Language Advanced Diploma/20260513_122354.jpg",
+        "English Language Advanced Diploma/20260513_122419.jpg"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["language", "english"]
+    },
+    {
+      "id": "icdl-standard",
+      "name": "ICDL Standard",
+      "issuer": "ICDL",
+      "category": "Digital Literacy",
+      "date_issued": "2026-05-13",
+      "expiry_date": null,
+      "files": [
+        "ICDL Standard/20260513_123015.jpg"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["icdl", "digital-skills"]
+    },
+    {
+      "id": "pm-foundations",
+      "name": "Project Management Foundations",
+      "issuer": "LinkedIn Learning",
+      "category": "Project Management",
+      "date_issued": "2026-05-22",
+      "expiry_date": null,
+      "files": [
+        "LinkedIn Learning/Project Management Foundations.PDF"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["project-management", "foundations"]
+    },
+    {
+      "id": "pm-foundations-cpe",
+      "name": "Project Management Foundations (CPE)",
+      "issuer": "LinkedIn Learning",
+      "category": "Project Management",
+      "date_issued": "2026-05-22",
+      "expiry_date": null,
+      "files": [
+        "LinkedIn Learning/Project Management Foundations_CPE.PDF"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["project-management", "cpe"]
+    },
+    {
+      "id": "pm-foundations-pmi",
+      "name": "Project Management Foundations (PMI)",
+      "issuer": "LinkedIn Learning",
+      "category": "Project Management",
+      "date_issued": "2026-05-22",
+      "expiry_date": null,
+      "files": [
+        "LinkedIn Learning/Project Management Foundations_PMI.PDF"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["project-management", "pmi"]
+    },
+    {
+      "id": "intelligent-automation-pm",
+      "name": "Intelligent Automation for Project Managers",
+      "issuer": "LinkedIn Learning",
+      "category": "Project Management",
+      "date_issued": "2026-05-22",
+      "expiry_date": null,
+      "files": [
+        "LinkedIn Learning/Intelligent Automation for Project Managers.PDF"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["automation", "project-management", "ai"]
+    },
+    {
+      "id": "intelligent-automation-pm-cpe",
+      "name": "Intelligent Automation for Project Managers (CPE)",
+      "issuer": "LinkedIn Learning",
+      "category": "Project Management",
+      "date_issued": "2026-05-22",
+      "expiry_date": null,
+      "files": [
+        "LinkedIn Learning/Intelligent Automation for Project Managers_CPE.PDF"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["automation", "project-management", "cpe"]
+    },
+    {
+      "id": "intelligent-automation-pm-pmi",
+      "name": "Intelligent Automation for Project Managers (PMI)",
+      "issuer": "LinkedIn Learning",
+      "category": "Project Management",
+      "date_issued": "2026-05-22",
+      "expiry_date": null,
+      "files": [
+        "LinkedIn Learning/Intelligent Automation for Project Managers_PMI.PDF"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["automation", "project-management", "pmi"]
+    },
+    {
+      "id": "hr-foundations",
+      "name": "HR Foundations: Core Human Resources",
+      "issuer": "LinkedIn Learning",
+      "category": "Human Resources",
+      "date_issued": "2026-05-22",
+      "expiry_date": null,
+      "files": [
+        "LinkedIn Learning/HR Foundations_Core Human Resources.PDF"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["hr", "foundations"]
+    },
+    {
+      "id": "hr-foundations-hrci",
+      "name": "HR Foundations: Core Human Resources (HRCI)",
+      "issuer": "LinkedIn Learning",
+      "category": "Human Resources",
+      "date_issued": "2026-05-22",
+      "expiry_date": null,
+      "files": [
+        "LinkedIn Learning/HR Foundations_Core Human Resources_HRCI.PDF"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["hr", "hrci"]
+    },
+    {
+      "id": "hr-foundations-shrm",
+      "name": "HR Foundations: Core Human Resources (SHRM)",
+      "issuer": "LinkedIn Learning",
+      "category": "Human Resources",
+      "date_issued": "2026-05-22",
+      "expiry_date": null,
+      "files": [
+        "LinkedIn Learning/HR Foundations_Core Human Resources_SHRM.PDF"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["hr", "shrm"]
+    },
+    {
+      "id": "cert-prep-hr",
+      "name": "Certification Prep: Professional in Human Resources",
+      "issuer": "LinkedIn Learning",
+      "category": "Human Resources",
+      "date_issued": "2026-05-22",
+      "expiry_date": null,
+      "files": [
+        "LinkedIn Learning/Certification Prep_Professional in Human Resources.PDF"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["hr", "certification-prep"]
+    },
+    {
+      "id": "cert-prep-hr-cpe",
+      "name": "Certification Prep: Professional in Human Resources (CPE)",
+      "issuer": "LinkedIn Learning",
+      "category": "Human Resources",
+      "date_issued": "2026-05-22",
+      "expiry_date": null,
+      "files": [
+        "LinkedIn Learning/Certification Prep_professional in Human Resources_CPE.PDF"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["hr", "certification-prep", "cpe"]
+    },
+    {
+      "id": "six-sigma-green-belt",
+      "name": "Six Sigma: Green Belt",
+      "issuer": "LinkedIn Learning",
+      "category": "Quality Management",
+      "date_issued": "2026-05-22",
+      "expiry_date": null,
+      "files": [
+        "LinkedIn Learning/Six Sigma_Green Belt.PDF"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["six-sigma", "quality"]
+    },
+    {
+      "id": "six-sigma-green-belt-iiba",
+      "name": "Six Sigma: Green Belt (IIBA)",
+      "issuer": "LinkedIn Learning",
+      "category": "Quality Management",
+      "date_issued": "2026-05-22",
+      "expiry_date": null,
+      "files": [
+        "LinkedIn Learning/Six Sigma_Green Belt_IIBA.PDF"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["six-sigma", "quality", "iiba"]
+    },
+    {
+      "id": "six-sigma-green-belt-pmi",
+      "name": "Six Sigma: Green Belt (PMI)",
+      "issuer": "LinkedIn Learning",
+      "category": "Quality Management",
+      "date_issued": "2026-05-22",
+      "expiry_date": null,
+      "files": [
+        "LinkedIn Learning/Six Sigma_Green Belt_PMI.PDF"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["six-sigma", "quality", "pmi"]
+    },
+    {
+      "id": "critical-thinking",
+      "name": "Critical Thinking for Better Judgement and Decision-Making",
+      "issuer": "LinkedIn Learning",
+      "category": "Soft Skills",
+      "date_issued": "2026-05-22",
+      "expiry_date": null,
+      "files": [
+        "LinkedIn Learning/Critical Thinking for Better Judgement and Decision-Making.PDF"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["critical-thinking", "decision-making"]
+    },
+    {
+      "id": "critical-thinking-cpe",
+      "name": "Critical Thinking for Better Judgement and Decision-Making (CPE)",
+      "issuer": "LinkedIn Learning",
+      "category": "Soft Skills",
+      "date_issued": "2026-05-22",
+      "expiry_date": null,
+      "files": [
+        "LinkedIn Learning/Critical Thinking for Better Judgement and Decision-Making_CPE.PDF"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["critical-thinking", "cpe"]
+    },
+    {
+      "id": "critical-thinking-pmi",
+      "name": "Critical Thinking for Better Judgement and Decision-Making (PMI)",
+      "issuer": "LinkedIn Learning",
+      "category": "Soft Skills",
+      "date_issued": "2026-05-22",
+      "expiry_date": null,
+      "files": [
+        "LinkedIn Learning/Critical Thinking for Better Judgement and Decision-Making_PMI.PDF"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["critical-thinking", "pmi"]
+    },
+    {
+      "id": "design-thinking",
+      "name": "Design Thinking: Implementing the Process",
+      "issuer": "LinkedIn Learning",
+      "category": "Innovation",
+      "date_issued": "2026-05-22",
+      "expiry_date": null,
+      "files": [
+        "LinkedIn Learning/Design Thinking_Implementing the Process.PDF"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["design-thinking", "innovation"]
+    },
+    {
+      "id": "design-thinking-cpe",
+      "name": "Design Thinking: Implementing the Process (CPE)",
+      "issuer": "LinkedIn Learning",
+      "category": "Innovation",
+      "date_issued": "2026-05-22",
+      "expiry_date": null,
+      "files": [
+        "LinkedIn Learning/Design Thinking_Implementing the Process_CPE.PDF"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["design-thinking", "cpe"]
+    },
+    {
+      "id": "design-thinking-pmi",
+      "name": "Design Thinking: Implementing the Process (PMI)",
+      "issuer": "LinkedIn Learning",
+      "category": "Innovation",
+      "date_issued": "2026-05-22",
+      "expiry_date": null,
+      "files": [
+        "LinkedIn Learning/Design Thinking_Implementing the Process_PMI.PDF"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["design-thinking", "pmi"]
+    },
+    {
+      "id": "ai-foundations",
+      "name": "Artificial Intelligence Foundations: Thinking Machines",
+      "issuer": "LinkedIn Learning",
+      "category": "Artificial Intelligence",
+      "date_issued": "2026-05-22",
+      "expiry_date": null,
+      "files": [
+        "LinkedIn Learning/Artificial Intelligence Foundations_Thinking Machines.PDF"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["ai", "machine-learning"]
+    },
+    {
+      "id": "rpa-ai-leaders",
+      "name": "RPA, AI, and Cognitive Tech for Leaders",
+      "issuer": "LinkedIn Learning",
+      "category": "Artificial Intelligence",
+      "date_issued": "2026-05-22",
+      "expiry_date": null,
+      "files": [
+        "LinkedIn Learning/RPA, AI, and Cognitive Tech for Leaders .PDF"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["rpa", "ai", "cognitive"]
+    },
+    {
+      "id": "rpa-ai-leaders-cpe",
+      "name": "RPA, AI, and Cognitive Tech for Leaders (CPE)",
+      "issuer": "LinkedIn Learning",
+      "category": "Artificial Intelligence",
+      "date_issued": "2026-05-22",
+      "expiry_date": null,
+      "files": [
+        "LinkedIn Learning/RPA, AI, and Cognitive Tech for Leaders_CPE.PDF"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["rpa", "ai", "cpe"]
+    },
+    {
+      "id": "plc-developer",
+      "name": "Become a PLC Developer",
+      "issuer": "LinkedIn Learning",
+      "category": "Industrial Automation",
+      "date_issued": "2026-05-22",
+      "expiry_date": null,
+      "files": [
+        "LinkedIn Learning/Become a PLC Developer.PDF"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["plc", "automation"]
+    },
+    {
+      "id": "plc-ladder-logic",
+      "name": "Learning PLC Ladder Logic, 1 The Basics",
+      "issuer": "LinkedIn Learning",
+      "category": "Industrial Automation",
+      "date_issued": "2026-05-22",
+      "expiry_date": null,
+      "files": [
+        "LinkedIn Learning/Learning PLC Ladder Logic, 1 The Basics.PDF"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["plc", "ladder-logic"]
+    },
+    {
+      "id": "plc-sensors",
+      "name": "PLC Industrial Sensors",
+      "issuer": "LinkedIn Learning",
+      "category": "Industrial Automation",
+      "date_issued": "2026-05-22",
+      "expiry_date": null,
+      "files": [
+        "LinkedIn Learning/PLC Industrial Sensors.PDF"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["plc", "sensors"]
+    },
+    {
+      "id": "plc-memory",
+      "name": "PLC Momery Organization",
+      "issuer": "LinkedIn Learning",
+      "category": "Industrial Automation",
+      "date_issued": "2026-05-22",
+      "expiry_date": null,
+      "files": [
+        "LinkedIn Learning/PLC Momery Organization.PDF"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["plc", "memory"]
+    },
+    {
+      "id": "plc-simulation",
+      "name": "PLC Simulation Software, Factory IO with Connected Component Workbench",
+      "issuer": "LinkedIn Learning",
+      "category": "Industrial Automation",
+      "date_issued": "2026-05-22",
+      "expiry_date": null,
+      "files": [
+        "LinkedIn Learning/PLC Simulation Software, Factory IO with Connected Component Workbench.PDF"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["plc", "simulation", "factory-io"]
+    },
+    {
+      "id": "industrial-automation",
+      "name": "Learning Industrial Automation",
+      "issuer": "LinkedIn Learning",
+      "category": "Industrial Automation",
+      "date_issued": "2026-05-22",
+      "expiry_date": null,
+      "files": [
+        "LinkedIn Learning/Learning Industrial Automation.PDF"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["industrial", "automation"]
+    },
+    {
+      "id": "scada",
+      "name": "Learning SCADA: Collect, Analyze, and Visualize Data for Industrial Automation",
+      "issuer": "LinkedIn Learning",
+      "category": "Industrial Automation",
+      "date_issued": "2026-05-22",
+      "expiry_date": null,
+      "files": [
+        "LinkedIn Learning/Learning SCADA_Collect, Analyze, and Visualize Data for Industrial Automation.PDF"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["scada", "data-visualization"]
+    },
+    {
+      "id": "mechanical-systems",
+      "name": "Mechanical Systems: Reading HVCA, Plumbing, and Other Drawings and Schematics",
+      "issuer": "LinkedIn Learning",
+      "category": "Engineering",
+      "date_issued": "2026-05-22",
+      "expiry_date": null,
+      "files": [
+        "LinkedIn Learning/Mechanical Systems_Reading HVCA, Plumbing, and Other Drawings and Schematics.PDF"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["mechanical", "engineering", "hvac"]
+    },
+    {
+      "id": "occupational-safety",
+      "name": "Occupational Safety and Health: Fire and Emergency Preparedness",
+      "issuer": "LinkedIn Learning",
+      "category": "Safety",
+      "date_issued": "2026-05-22",
+      "expiry_date": null,
+      "files": [
+        "LinkedIn Learning/Occupational Safety and Health_Fire and Emergency Preparedness.PDF"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["safety", "osha"]
+    },
+    {
+      "id": "iot-foundations",
+      "name": "IOT Foundations: Fundamentals",
+      "issuer": "LinkedIn Learning",
+      "category": "IoT",
+      "date_issued": "2026-05-22",
+      "expiry_date": null,
+      "files": [
+        "LinkedIn Learning/IOT Foundations_Fundamentals.PDF"
+      ],
+      "verification_url": null,
+      "status": "active",
+      "tags": ["iot", "fundamentals"]
+    }
+  ],
+  "categories": [
+    "Language",
+    "Digital Literacy",
+    "Project Management",
+    "Human Resources",
+    "Quality Management",
+    "Soft Skills",
+    "Innovation",
+    "Artificial Intelligence",
+    "Industrial Automation",
+    "Engineering",
+    "Safety",
+    "IoT"
+  ],
+  "issuers": [
+    "LinkedIn Learning",
+    "ICDL",
+    "Unknown"
+  ]
+}
